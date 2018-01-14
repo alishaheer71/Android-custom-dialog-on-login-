@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Custom_Dialog</string>
+
+    <string name="email" >Email</string>
+    <string name="password" >Password</string>
+    <string-array name="array_data">
+        <item> A </item>
+        <item> BC </item>
+        <item> DE </item>
+        <item> FG </item>
+
+    </string-array>
+</resources>
